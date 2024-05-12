@@ -3,3 +3,8 @@ Cloning into 'TaxMaven'...
 warning: You appear to have cloned an empty repository.
 PS C:\Users\MayOu\OneDrive\Desktop\Python Project Folder> cd TaxMaven
 PS C:\Users\MayOu\OneDrive\Desktop\Python Project Folder\TaxMaven>
+
+
+git add .
+git commit -m "Initial commit with project files"
+git push -u origin main
