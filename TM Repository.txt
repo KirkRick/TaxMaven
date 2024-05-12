@@ -1,0 +1,5 @@
+PS C:\Users\MayOu\OneDrive\Desktop\Python Project Folder> git clone https://github.com/KirkRick/TaxMaven.git
+Cloning into 'TaxMaven'...
+warning: You appear to have cloned an empty repository.
+PS C:\Users\MayOu\OneDrive\Desktop\Python Project Folder> cd TaxMaven
+PS C:\Users\MayOu\OneDrive\Desktop\Python Project Folder\TaxMaven>
